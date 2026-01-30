@@ -1,7 +1,7 @@
 # Image Caption Generation 🖼️
 
 <div align="center">
-  <video src="Demo.webm" controls width="800"></video>
+  <img src="Demo.gif" width="800" alt="Demo GIF">
 </div>
 
 <audio controls>
