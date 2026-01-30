@@ -1,8 +1,14 @@
 # Image Caption Generation 🖼️
+
+<div align="center">
+  <video src="Demo.webm" controls width="800"></video>
+</div>
+
 <audio controls>
   <source src="https://github.com/mohmmad-akeeb/image-caption-generation/blob/main/predicted_caption.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+
 This project demonstrates an end-to-end system for generating captions for images. The pipeline involves:
 - Using the **VGG16** model for feature extraction.
 - Building and training a **combination of LSTM and a neural network** for generating captions.
